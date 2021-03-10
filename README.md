@@ -1,5 +1,4 @@
 # Hi there 👋
-## (Web APP)[https://joaquinuriel.github.io]
 > A dev is just a XXI century wizard
 
 <!--
