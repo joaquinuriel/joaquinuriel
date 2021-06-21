@@ -1,4 +1,4 @@
-![logo](https://github.com/Joaquinuriel/joaquinuriel/raw/main/256x256.png)
+![logo](/256x256.png)
 
 <!--
 **Joaquinuriel/joaquinuriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
