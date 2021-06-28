@@ -1,5 +1,4 @@
-# Hello There!
-![preview](preview.png)
+# Hello There
 
 <!-- **Joaquinuriel/joaquinuriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
