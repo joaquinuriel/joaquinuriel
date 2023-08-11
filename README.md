@@ -2,8 +2,6 @@
 
 I'm Joaquin, a fullstack web developer from Argentina working with Typescript & React.
 
-[![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinuriel)](https://github.com/joaquinuriel)
-
 <!-- **Joaquinuriel/joaquinuriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
